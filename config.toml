@@ -1,6 +1,6 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://alo.ees.vanderbilt.edu/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Vanderbilt Computational Thinking and Learning Initiative"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -27,14 +27,13 @@ disableLanguages        = [""]
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "pinterest", "email"]
+  socialShare           = ["twitter", "email"]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "An initiative to integrate research and teaching of computational thinking across the curriculum"
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "CTLI Team"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -65,11 +64,11 @@ disableLanguages        = [""]
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/logo.png"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Computational Thinking and Learning Initiative"
 
   [params.sidebar]
     about               = "test"
@@ -156,48 +155,15 @@ disableLanguages        = [""]
 [social]
   # Coding Communities
   github                = "vu-ctli"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = ""
-  behance               = ""
-  dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
-  # Professional/Business Oriented Communities
-  linkedin              = ""
-  linkedin_company      = ""
-  foursquare            = ""
-  xing                  = ""
   slideshare            = ""
   # Social Networks
   facebook              = ""
-  googleplus            = ""
-  reddit                = ""
-  quora                 = ""
   youtube               = ""
   vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = ""
-  tumblr                = ""
   twitter               = ""
   skype                 = ""
-  snapchat              = ""
-  pinterest             = ""
-  telegram              = ""
-  vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = ""
-  keybase               = ""
-  mastodon              = ""
   # Email
   email                 = ""
