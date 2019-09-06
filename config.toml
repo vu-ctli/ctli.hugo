@@ -1,4 +1,4 @@
-baseurl                 = "https://alo.ees.vanderbilt.edu/"
+baseurl                 = "https://alo.ees.vanderbilt.edu/ctli/"
 DefaultContentLanguage  = "en"
 title                   = "Vanderbilt Computational Thinking and Learning Initiative"
 theme                   = "hugo-future-imperfect-slim"
@@ -8,6 +8,8 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
+relativeURLs            = true
+canonifyURLs            = true
 
 [params]
   mainSections = ["blog", "post"]
