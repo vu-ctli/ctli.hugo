@@ -1,6 +1,7 @@
 +++
 author = "Jonathan Gilligan"
-categories = ["CTLI", "lorem"]
+categories = ["Blog"]
+tags = ["Lorem"]
 date = "2019-09-06"
 description = "Lorem Ipsum"
 featured = "img_01.jpg"
