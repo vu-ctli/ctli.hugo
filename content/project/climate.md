@@ -9,7 +9,7 @@ featuredalt = "Climate change"
 featuredpath = "main"
 linktitle = ""
 title = "Climate change"
-type = "post"
+type = "project"
 +++
 # Climate change project
 

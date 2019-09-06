@@ -12,7 +12,7 @@ relativeURLs            = true
 canonifyURLs            = true
 
 [params]
-  mainSections = ["blog", "post"]
+  mainSections = ["blog", "post", "project"]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
   # multiple/additional files if necessary. The standard theme files can be loaded
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
@@ -125,7 +125,7 @@ canonifyURLs            = true
   [[menu.main]]
     name              = "Projects"
     identifier        = "projects"
-    url               = "/projects/"
+    url               = "/project/"
     pre               = "<i class='fas fa-chalkboard-teacher'></i>"
     weight            = 3
 
