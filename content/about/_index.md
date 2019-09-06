@@ -1,6 +1,9 @@
 +++
 title = "About CTLI"
 date = "2019-09-06"
+featured = "logo.jpg"
+featuredalt = "CTLI"
+featuredpath = "main"
 +++
 # The Computational Thinking and Learning Initiative at Vanderbilt
 
@@ -12,7 +15,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
 
-Quae ad eiusmod quo multos. Sunt consequat mandaremus, veniam arbitror do 
+Quae ad eiusmod quo multos. Sunt consequat mandaremus, veniam arbitror do
 pariatur nam ullamco culpa aut aliquip praetermissum si fore mentitum
 reprehenderit hic expetendis praetermissum e voluptate an dolore ex hic legam
 laborum, nisi est ullamco o sint, sunt imitarentur consequat enim cupidatat. Id
