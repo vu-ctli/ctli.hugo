@@ -1,7 +1,7 @@
 +++
 author = "Jonathan Gilligan"
 categories = ["Projects", "Teaching", "Research"]
-tags = ["Lorem", "Climate"]
+tags = ["Climate"]
 date = "2019-09-06"
 description = "Computational thinking about climate change"
 featured = "climate_proj.jpg"
