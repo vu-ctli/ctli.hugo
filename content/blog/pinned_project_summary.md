@@ -1,7 +1,7 @@
 +++
 author = "CTLI Team"
-categories = ["Blog"]
-tags = ["project summary"]
+categories = ["CTLI"]
+tags = ["project summary", "overview"]
 date = "2019-01-25"
 description = "Computational Thinking and Learning Initiative project description"
 featured = "ctli_white_text_logo.jpg"

@@ -1,12 +1,11 @@
 +++
 title = "Contact"
 type = "contact"
-netlify = false
-emailservice = "formspree.io/example@email.com"
-contactname = "Your name"
-contactemail = "Your Email"
-contactsubject = "Subject"
-contactmessage = "Your Message"
-contactlang = "en"
-contactanswertime = 24
 +++
+# Contact 
+
+Computational Thinking and Learning Initiative
+
+Vanderbilt University
+
+Akos Ledeczi, PI [akos.ledeczi@vanderbilt.edu](mailto:akos.ledeczi@vanderbilt.edu?subject=CTLI)
