@@ -10,7 +10,7 @@ featuredpath = "date"
 linktitle = ""
 title = "Lorem Ipsum"
 type = "post"
-
+draft = "true"
 +++
 
 # Sint Nisi Ipsum
