@@ -1,7 +1,7 @@
 +++
 title = "About CTLI"
 date = "2019-09-06"
-featured = "logo.jpg"
+featured = "ctli_gold_logo.jpg"
 featuredalt = "CTLI"
 featuredpath = "main"
 +++
