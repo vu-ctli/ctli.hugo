@@ -8,7 +8,7 @@ featured = "ctli_white_text_logo.jpg"
 featuredalt = "CTLI Logo"
 featuredpath = "main"
 linktitle = ""
-title = "Computational Thinking & Learning Initiative"
+title = "CTLI Project"
 type = "post"
 weight = "1"
 +++
