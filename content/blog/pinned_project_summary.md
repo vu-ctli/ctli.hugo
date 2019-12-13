@@ -1,5 +1,5 @@
 +++
-author = "Akos Ledeczi"
+author = "CTLI Team"
 categories = ["Blog"]
 tags = ["project summary"]
 date = "2019-01-25"
