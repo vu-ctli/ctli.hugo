@@ -66,14 +66,14 @@ canonifyURLs            = true
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.png"
+      src                 = "/img/main/ctli_gold_logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
       alt                 = "Computational Thinking and Learning Initiative"
 
   [params.sidebar]
-    about               = "test"
+    about               = "About CTLI"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
