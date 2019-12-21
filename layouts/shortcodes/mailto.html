@@ -1,0 +1,14 @@
+{{- $to := "" -}}
+{{- $subj := "" -}}
+{{- if .IsNamedParams -}}
+  {{- $to = .Get "to" -}}
+  {{- $subj = .Get "subj" -}}
+{{- else -}}
+  {{- $to := .Get 0 -}}
+  {{- if len .Params | gt 1 -}}
+    {{- $subj = .Get 1 -}}
+  {{- end -}}
+{{- end -}}
+<a href="mailto:{{- $to -}}
+  {{- if $subj }}?subject={{ $subj }}{{ end -}}
+">{{ $to }}</a>

@@ -2,10 +2,13 @@
 title = "Contact"
 type = "contact"
 +++
-# Contact 
+# Contact
 
-Computational Thinking and Learning Initiative
-
+{{< pre >}}
+{{< markdownify >}}
+**Computational Thinking and Learning Initiative**
 Vanderbilt University
-
-Akos Ledeczi, PI [akos.ledeczi@vanderbilt.edu](mailto:akos.ledeczi@vanderbilt.edu?subject=CTLI)
+Akos Ledeczi, Principal Investigator
+{{< /markdownify >}}
+{{< mailto to="akos.ledeczi@vanderbilt.edu" subj="CTLI" >}}
+{{< /pre >}}

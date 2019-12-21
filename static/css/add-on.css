@@ -4,3 +4,12 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+p.img-credit {
+  font-size: 80%;
+  color: #808080;
+  text-align: right;
+}
+
+div.preformatted {
+  white-space: pre;
+}

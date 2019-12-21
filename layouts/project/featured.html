@@ -8,4 +8,7 @@
   <a href="{{ .RelPermalink }}" class="image featured">
     <img src="{{ (path.Join "img" (cond (eq .Params.featuredpath "date") (.Page.Date.Format "2006/01") (.Params.featuredpath)) .Params.featured) | relURL }}" alt="{{ .Params.featuredalt }}">
   </a>
+  {{- if .Params.featuredcredit }}
+  <p class="img-credit"> Image credit: {{ .Params.featuredcredit | markdownify -}} </p>
+  {{ end -}}
 {{ end }}
