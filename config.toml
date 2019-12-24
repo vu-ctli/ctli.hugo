@@ -40,8 +40,8 @@ canonifyURLs            = true
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
-    favicon             = false
-    svg                 = true
+    favicon             = true
+    svg                 = false
     faviconVersion      = "1"
     msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
     iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
