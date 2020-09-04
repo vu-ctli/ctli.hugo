@@ -10,7 +10,8 @@ can create a file for new content with
 `hugo new content/blog/my-new-content.md`
 from a command prompt in the root directory of the project.
 
-Text formatting uses the [goldmark](https://github.com/yuin/goldmark/)
+Text formatting uses the
+[blackfriday](https://github.com/russross/blackfriday)
 processor, which follows the CommonMark standard with a few extensions.
 
 You can also just post content in whatever form is convenient for you
