@@ -12,3 +12,7 @@ from a command prompt in the root directory of the project.
 
 Text formatting uses the [goldmark](https://github.com/yuin/goldmark/)
 processor, which follows the CommonMark standard with a few extensions.
+
+You can also just post content in whatever form is convenient for you
+to the `web` channel of the project's Slack workspace and I will add 
+it to the site.
