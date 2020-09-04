@@ -10,6 +10,7 @@ pluralizeListTitles     = false
 disableLanguages        = [""]
 relativeURLs            = true
 canonifyURLs            = true
+defaultMarkdownHandler  = "blackfriday"
 
 [params]
   mainSections = ["blog", "post", "project"]
