@@ -14,6 +14,6 @@ Text formatting uses the
 [blackfriday](https://github.com/russross/blackfriday) markdown
 processor, which follows the CommonMark standard with a few extensions.
 
-You can also just post content in whatever form is convenient for you
-to the `web` channel of the project's Slack workspace and I will add 
-it to the site.
+You can also just put your content in whatever form is convenient for 
+you to the `web` channel of the project's Slack workspace and I will 
+add it to the site.
