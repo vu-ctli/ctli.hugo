@@ -2,7 +2,10 @@
 title = "Events"
 date = 2020-10-01T14:24:22-05:00
 author = "Brian Broll"
-type = "events" # alternate values are "project" for main project description
+type = "post" # alternate values are "project" for main project description
+categories = ["CTLI", "events"]
+tags = ["events"]
+weight = 2
 +++
 ![Vanderbilt Digital Nights](/img/main/vdn.png)
 
