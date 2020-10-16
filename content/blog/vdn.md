@@ -1,11 +1,15 @@
 +++
 title = "Events"
-date = 2020-10-01T14:24:22-05:00
+date = "2020-10-01"
 author = "Brian Broll"
+description = "Vanderbilt Digital Nights: November 19 2020"
+featured = "vdn.png"
+featuredalt = "Vanderbilt Digital Nights"
+featuredpath = "main"
 type = "post" # alternate values are "project" for main project description
 categories = ["CTLI", "events"]
 tags = ["events"]
-weight = 2
+weight = 1
 +++
 ![Vanderbilt Digital Nights](/img/main/vdn.png)
 
