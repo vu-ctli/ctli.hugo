@@ -31,3 +31,4 @@ https://cps-vo.org/vanderbilt-digital-nights-2020
  
 Any questions should be addressed to vdn@vanderbilt.edu
 
+Interested in spreading the word? Feel free to use our [flier](/pdf/VDNFlier.pdf).
