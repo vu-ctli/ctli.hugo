@@ -11,7 +11,7 @@ type = "post" # alternate values are "project" for main project description
 categories = ["CTLI", "events"]
 linktitle = ""
 tags = ["events"]
-weight = 255
+weight = 1
 +++
 Vanderbilt Digital Nights is a series of hands-on workshops organized by the [Computational Thinking and Learning Initiative (CTLI)](http://ctli.vanderbilt.edu) at Vanderbilt where participants create fun computer programs. The event is targeted at high school students who want to explore what computer science is all about. Interested teachers and parents are also welcome.
 
