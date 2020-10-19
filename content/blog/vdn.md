@@ -23,7 +23,7 @@ During the inaugural event, we will collectively build a weather app using a gra
 
 **Where**:   In cyberspace (via Zoom)
 
-**What’s required**:  A computer with a Chrome browser
+**What’s required**:  A laptop or desktop computer with a Chrome browser
 
 Registration and a parent’s approval are required to participate. Register at
  
