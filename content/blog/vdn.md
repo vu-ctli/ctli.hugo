@@ -23,11 +23,12 @@ During the inaugural event, we will collectively build a weather app using a gra
 
 **Where**:   In cyberspace (via Zoom)
 
-**What’s required**:  A computer with a Chrome browser
+**What’s required**:  A laptop or desktop computer with a Chrome browser
 
 Registration and a parent’s approval are required to participate. Register at
  
-https://WillFigureThisOut.com
+https://cps-vo.org/vanderbilt-digital-nights-2020
  
 Any questions should be addressed to vdn@vanderbilt.edu
 
+Interested in spreading the word? Feel free to use our [flier](/pdf/VDNFlier.pdf).
