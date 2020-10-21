@@ -27,7 +27,7 @@ During the inaugural event, we will collectively build a weather app using a gra
 
 Registration and a parent’s approval are required to participate. Register at
  
-https://cps-vo.org/vanderbilt-digital-nights-2020
+https://cps-vo.org/group/vanderbilt-digital-nights-2020/registration
  
 Any questions should be addressed to vdn@vanderbilt.edu
 
