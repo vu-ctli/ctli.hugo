@@ -1,6 +1,6 @@
 +++
 title = "Events"
-date = "2020-10-01"
+date = "2020-10-22"
 draft = true
 author = "Brian Broll"
 description = "Vanderbilt Digital Nights: November 19 2020"
