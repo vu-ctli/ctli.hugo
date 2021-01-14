@@ -1,9 +1,9 @@
 +++
 title = "Events"
-date = "2020-10-22"
+date = "2021-01-14"
 draft = true
 author = "Brian Broll"
-description = "Vanderbilt Digital Nights: November 19 2020"
+description = "Vanderbilt Digital Nights"
 featured = "vdn.png"
 featuredalt = "Vanderbilt Digital Nights"
 featuredpath = "main"
@@ -15,11 +15,13 @@ weight = 1
 +++
 Vanderbilt Digital Nights is a series of hands-on workshops organized by the [Computational Thinking and Learning Initiative (CTLI)](http://ctli.vanderbilt.edu) at Vanderbilt where participants create fun computer programs. The event is targeted at high school students who want to explore what computer science is all about. Interested teachers and parents are also welcome.
 
-During the inaugural event, we will collectively build a weather app using a graphical programming environment called [NetsBlox](https://netsblox.org). The app will have an interactive Google Maps background and it will display current weather conditions anywhere on Earth. NetsBlox was specifically designed to enable anyone to create fun applications that utilize data from the internet.  No previous programming experience is required.
+**Time**:    Thursdays, 4-6pm (CST)
 
-**Inaugural Event**:  Build a Weather App
-
-**When**:    Thursday, November 19, 4-6pm (CST)
+**Events**:
+- January 28: Movies
+- February 25: Chat Room
+- March 25: Multi-player Game
+- April 22: Climate Change
 
 **Where**:   In cyberspace (via Zoom)
 
@@ -27,8 +29,8 @@ During the inaugural event, we will collectively build a weather app using a gra
 
 Registration and a parent’s approval are required to participate. Register at
  
-https://cps-vo.org/group/vanderbilt-digital-nights-2020/registration
+https://cps-vo.org/group/vanderbilt-digital-nights-2021/registration
  
 Any questions should be addressed to vdn@vanderbilt.edu
 
-Interested in spreading the word? Feel free to use our [flier](/pdf/VDNFlier.pdf).
+Interested in spreading the word? Feel free to use our [flier](/pdf/VDNFlier_2021.pdf).
